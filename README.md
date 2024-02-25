@@ -1,6 +1,3 @@
-# ![La Salle BES](http://jcarreras.es/images/lasalle.png)
-
-# ![screenshot](.screenshot.png)
 
 # Descripción
 -----------------------
